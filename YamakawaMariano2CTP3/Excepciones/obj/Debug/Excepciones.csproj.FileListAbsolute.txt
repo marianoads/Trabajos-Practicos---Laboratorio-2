@@ -1,0 +1,10 @@
+C:\Users\Mariano\source\repos\YamakawaMariano2CTP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Mariano\source\repos\YamakawaMariano2CTP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Mariano\source\repos\YamakawaMariano2CTP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\source\repos\YamakawaMariano2CTP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Mariano\source\repos\YamakawaMariano2CTP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Mariano\Desktop\YamakawaMariano2CTP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Mariano\Desktop\YamakawaMariano2CTP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Mariano\Desktop\YamakawaMariano2CTP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\Desktop\YamakawaMariano2CTP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Mariano\Desktop\YamakawaMariano2CTP3\Excepciones\obj\Debug\Excepciones.pdb

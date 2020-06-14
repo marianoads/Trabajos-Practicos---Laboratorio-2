@@ -1,0 +1,18 @@
+C:\Users\Mariano\source\repos\YamakawaMariano2CTP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\Mariano\source\repos\YamakawaMariano2CTP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\Mariano\source\repos\YamakawaMariano2CTP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\Mariano\source\repos\YamakawaMariano2CTP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Mariano\source\repos\YamakawaMariano2CTP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\Mariano\source\repos\YamakawaMariano2CTP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\source\repos\YamakawaMariano2CTP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\Mariano\source\repos\YamakawaMariano2CTP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\Mariano\source\repos\YamakawaMariano2CTP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\Mariano\Desktop\YamakawaMariano2CTP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\Mariano\Desktop\YamakawaMariano2CTP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\Mariano\Desktop\YamakawaMariano2CTP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\Mariano\Desktop\YamakawaMariano2CTP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Mariano\Desktop\YamakawaMariano2CTP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\Mariano\Desktop\YamakawaMariano2CTP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\Desktop\YamakawaMariano2CTP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\Mariano\Desktop\YamakawaMariano2CTP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\Mariano\Desktop\YamakawaMariano2CTP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
