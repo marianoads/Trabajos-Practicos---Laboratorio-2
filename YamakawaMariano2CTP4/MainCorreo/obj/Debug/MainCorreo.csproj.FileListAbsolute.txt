@@ -1,0 +1,14 @@
+C:\Users\Mariano\Desktop\YamakawaMariano2C\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\Mariano\Desktop\YamakawaMariano2C\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\Mariano\Desktop\YamakawaMariano2C\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\Mariano\Desktop\YamakawaMariano2C\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\Mariano\Desktop\YamakawaMariano2C\MainCorreo\obj\Debug\MainCorreo.formCorreo.resources
+C:\Users\Mariano\Desktop\YamakawaMariano2C\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\Mariano\Desktop\YamakawaMariano2C\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\Mariano\Desktop\YamakawaMariano2C\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\Desktop\YamakawaMariano2C\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Mariano\Desktop\YamakawaMariano2C\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\Mariano\Desktop\YamakawaMariano2C\MainCorreo\bin\Debug\TrabajoPracticoN4.exe
+C:\Users\Mariano\Desktop\YamakawaMariano2C\MainCorreo\bin\Debug\TrabajoPracticoN4.pdb
+C:\Users\Mariano\Desktop\YamakawaMariano2C\MainCorreo\bin\Debug\TrabajoPracticoN4.exe.config
+C:\Users\Mariano\Desktop\YamakawaMariano2C\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete

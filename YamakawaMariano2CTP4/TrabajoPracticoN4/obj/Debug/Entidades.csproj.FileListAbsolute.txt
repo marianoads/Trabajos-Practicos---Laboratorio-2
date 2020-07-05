@@ -1,0 +1,7 @@
+C:\Users\Mariano\Desktop\YamakawaMariano2C\TrabajoPracticoN4\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\Desktop\YamakawaMariano2C\TrabajoPracticoN4\bin\Debug\TrabajoPracticoN4.exe.config
+C:\Users\Mariano\Desktop\YamakawaMariano2C\TrabajoPracticoN4\bin\Debug\TrabajoPracticoN4.exe
+C:\Users\Mariano\Desktop\YamakawaMariano2C\TrabajoPracticoN4\bin\Debug\TrabajoPracticoN4.pdb
+C:\Users\Mariano\Desktop\YamakawaMariano2C\TrabajoPracticoN4\obj\Debug\TrabajoPracticoN4.exe
+C:\Users\Mariano\Desktop\YamakawaMariano2C\TrabajoPracticoN4\obj\Debug\TrabajoPracticoN4.pdb
+C:\Users\Mariano\Desktop\YamakawaMariano2C\TrabajoPracticoN4\obj\Debug\Entidades.csprojAssemblyReference.cache
