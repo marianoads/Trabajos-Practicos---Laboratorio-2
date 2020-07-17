@@ -1,0 +1,16 @@
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP3 Completo\Program\bin\Debug\Program.exe.config
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP3 Completo\Program\bin\Debug\Program.exe
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP3 Completo\Program\bin\Debug\Program.pdb
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP3 Completo\Program\bin\Debug\Archivos.dll
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP3 Completo\Program\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP3 Completo\Program\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP3 Completo\Program\bin\Debug\Excepciones.dll
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP3 Completo\Program\bin\Debug\Archivos.pdb
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP3 Completo\Program\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP3 Completo\Program\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP3 Completo\Program\bin\Debug\Excepciones.pdb
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP3 Completo\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP3 Completo\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP3 Completo\Program\obj\Debug\Program.csproj.CopyComplete
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP3 Completo\Program\obj\Debug\Program.exe
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP3 Completo\Program\obj\Debug\Program.pdb

@@ -22,3 +22,16 @@ C:\Users\Mariano\Desktop\YamakawaMariano2CTP3\Clases Instanciables\obj\Debug\Cla
 C:\Users\Mariano\Desktop\YamakawaMariano2CTP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
 C:\Users\Mariano\Desktop\YamakawaMariano2CTP3\Clases Instanciables\bin\Debug\Archivos.dll
 C:\Users\Mariano\Desktop\YamakawaMariano2CTP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\Mariano\Trabajos-Practicos---Laboratorio-2\YamakawaMariano2CTP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\Mariano\Trabajos-Practicos---Laboratorio-2\YamakawaMariano2CTP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\Mariano\Trabajos-Practicos---Laboratorio-2\YamakawaMariano2CTP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\Mariano\Trabajos-Practicos---Laboratorio-2\YamakawaMariano2CTP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\Mariano\Trabajos-Practicos---Laboratorio-2\YamakawaMariano2CTP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\Mariano\Trabajos-Practicos---Laboratorio-2\YamakawaMariano2CTP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\Mariano\Trabajos-Practicos---Laboratorio-2\YamakawaMariano2CTP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\Mariano\Trabajos-Practicos---Laboratorio-2\YamakawaMariano2CTP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\Mariano\Trabajos-Practicos---Laboratorio-2\YamakawaMariano2CTP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\Mariano\Trabajos-Practicos---Laboratorio-2\YamakawaMariano2CTP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\Trabajos-Practicos---Laboratorio-2\YamakawaMariano2CTP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\Mariano\Trabajos-Practicos---Laboratorio-2\YamakawaMariano2CTP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\Mariano\Trabajos-Practicos---Laboratorio-2\YamakawaMariano2CTP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

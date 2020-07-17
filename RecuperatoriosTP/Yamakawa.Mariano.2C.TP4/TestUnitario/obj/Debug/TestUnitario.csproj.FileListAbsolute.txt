@@ -1,0 +1,14 @@
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP4 Completo\Villamayor.Emanuel.2A.TP4\TestUnitario\bin\Debug\TestUnitario.dll
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP4 Completo\Villamayor.Emanuel.2A.TP4\TestUnitario\bin\Debug\TestUnitario.pdb
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP4 Completo\Villamayor.Emanuel.2A.TP4\TestUnitario\bin\Debug\Entidades.dll
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP4 Completo\Villamayor.Emanuel.2A.TP4\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP4 Completo\Villamayor.Emanuel.2A.TP4\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP4 Completo\Villamayor.Emanuel.2A.TP4\TestUnitario\bin\Debug\Entidades.pdb
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP4 Completo\Villamayor.Emanuel.2A.TP4\TestUnitario\bin\Debug\Entidades.dll.config
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP4 Completo\Villamayor.Emanuel.2A.TP4\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP4 Completo\Villamayor.Emanuel.2A.TP4\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP4 Completo\Villamayor.Emanuel.2A.TP4\TestUnitario\obj\Debug\TestUnitario.csprojAssemblyReference.cache
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP4 Completo\Villamayor.Emanuel.2A.TP4\TestUnitario\obj\Debug\TestUnitario.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP4 Completo\Villamayor.Emanuel.2A.TP4\TestUnitario\obj\Debug\TestUnitario.csproj.CopyComplete
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP4 Completo\Villamayor.Emanuel.2A.TP4\TestUnitario\obj\Debug\TestUnitario.dll
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP4 Completo\Villamayor.Emanuel.2A.TP4\TestUnitario\obj\Debug\TestUnitario.pdb

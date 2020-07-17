@@ -1,0 +1,6 @@
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP3 Completo\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP3 Completo\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP3 Completo\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP3 Completo\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP3 Completo\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Mariano\Downloads\Laboratorio-2-masterMANU\Programacion 2\TPs\TP3 Completo\Excepciones\obj\Debug\Excepciones.pdb
